@@ -2,6 +2,7 @@ contract PiggyBank {
     address public owner;
     uint public unlockTime;
 contract PiggyBank {
+contract PiggyBank {
 
     constructor(uint _days) {
         owner = msg.sender;
